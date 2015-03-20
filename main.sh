@@ -6,7 +6,7 @@ install (){
 	sudo apt-get install $1
 }
 #Add the PPAs and refresh apt
-sudo add-apt-repository ppa:nnobslab/themes
+sudo add-apt-repository ppa:noobslab/themes
 sudo add-apt-repository ppa:docky-core/ppa
 refresh 
 echo "PPA added"

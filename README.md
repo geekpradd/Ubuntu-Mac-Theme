@@ -6,3 +6,19 @@ This Script works on Ubuntu 14.04 and 14.10 (probably other versions but not tes
 
 This works only on Ubuntu with Unity (that is the Vanilla Ubuntu) and not on Kubuntu, Lubuntu etc
 
+##Usage
+
+Open the Terminal, and run the following command. Everything will be done automatically.
+
+```
+wget -qO- https://raw.githubusercontent.com/geekpradd/Ubuntu-Mac-Theme/master/main.sh | bash
+```
+
+##About
+
+Shell Script created by Pradipta (geekpradd). Theme and Resources developed by Noobslab.
+
+The original (manual) installation instructions were available on this article:
+http://www.noobslab.com/2014/11/mbuntu-macbuntu-1410-transformation.html
+
+You might wanna check it out for reverting back.
